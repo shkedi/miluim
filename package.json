@@ -1,0 +1,15 @@
+{
+  "name": "magen-david",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yair Shkedi",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.7.0",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
